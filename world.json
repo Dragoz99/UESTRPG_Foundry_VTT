@@ -20,15 +20,6 @@
       "flags": {}
     },
     {
-      "label": "Classes Elder Scrolls",
-      "type": "Item",
-      "name": "classes-elder-scrolls",
-      "path": "packs/classes-elder-scrolls.db",
-      "system": "dnd5e",
-      "private": false,
-      "flags": {}
-    },
-    {
       "label": "Subclasses Elder Scrolls",
       "type": "Item",
       "name": "subclasses-elder-scrolls",
@@ -45,6 +36,16 @@
       "system": "dnd5e",
       "private": false,
       "flags": {}
+    },
+    {
+      "label": "Class Elder Scrolls",
+      "type": "Item",
+      "name": "class-elder-scrolls",
+      "path": "packs/class-elder-scrolls.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {},
+      "package": "world"
     }
   ]
 }
