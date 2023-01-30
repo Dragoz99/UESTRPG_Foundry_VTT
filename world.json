@@ -1,0 +1,50 @@
+{
+  "title": "UESTRPG Foundry",
+  "id": "prova",
+  "system": "dnd5e",
+  "description": "<p></p>",
+  "coreVersion": "10.290",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10.290"
+  },
+  "systemVersion": "2.0.3",
+  "packs": [
+    {
+      "label": "Starter Prisoner",
+      "type": "Actor",
+      "name": "starter-prisoner",
+      "path": "packs/starter-prisoner.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Classes Elder Scrolls",
+      "type": "Item",
+      "name": "classes-elder-scrolls",
+      "path": "packs/classes-elder-scrolls.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Subclasses Elder Scrolls",
+      "type": "Item",
+      "name": "subclasses-elder-scrolls",
+      "path": "packs/subclasses-elder-scrolls.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "RACE ELDER SCROLLS",
+      "type": "Item",
+      "name": "race-elder-scrolls",
+      "path": "packs/race-elder-scrolls.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    }
+  ]
+}
